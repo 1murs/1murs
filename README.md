@@ -1,7 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:020209,30:080820,60:0f0a2e,100:020209&height=400&section=header&text=1murs&fontSize=80&fontColor=e2d9f3&fontAlignY=40&desc=%22If%20you%20want%20to%20live%20a%20happy%20life%2C%20tie%20it%20to%20a%20goal%2C%20not%20to%20people%20or%20objects.%22&descSize=13&descAlignY=62&descColor=9985c4&animation=fadeIn" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=48&pause=99999&color=E2D9F3&background=020209&center=true&vCenter=true&width=800&height=120&lines=1murs)
 
-*— Albert Einstein*
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=18&pause=99999&color=9985C4&background=020209&center=true&vCenter=true&width=800&height=80&lines=%22If+you+want+to+live+a+happy+life%2C+tie+it+to+a+goal%2C+not+to+people+or+objects.%22" />
+
+<sub>*— Albert Einstein*</sub>
 
 </div>
